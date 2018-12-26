@@ -8,13 +8,22 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		DevNeha|Any CPU = DevNeha|Any CPU
+		ProdNeha|Any CPU = ProdNeha|Any CPU
 		Release|Any CPU = Release|Any CPU
+		TestNeha|Any CPU = TestNeha|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{01CFBE88-E66D-4027-99C7-D6177DD56451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{01CFBE88-E66D-4027-99C7-D6177DD56451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CFBE88-E66D-4027-99C7-D6177DD56451}.DevNeha|Any CPU.ActiveCfg = DevNeha|Any CPU
+		{01CFBE88-E66D-4027-99C7-D6177DD56451}.DevNeha|Any CPU.Build.0 = DevNeha|Any CPU
+		{01CFBE88-E66D-4027-99C7-D6177DD56451}.ProdNeha|Any CPU.ActiveCfg = ProdNeha|Any CPU
+		{01CFBE88-E66D-4027-99C7-D6177DD56451}.ProdNeha|Any CPU.Build.0 = ProdNeha|Any CPU
 		{01CFBE88-E66D-4027-99C7-D6177DD56451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01CFBE88-E66D-4027-99C7-D6177DD56451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CFBE88-E66D-4027-99C7-D6177DD56451}.TestNeha|Any CPU.ActiveCfg = TestNeha|Any CPU
+		{01CFBE88-E66D-4027-99C7-D6177DD56451}.TestNeha|Any CPU.Build.0 = TestNeha|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
