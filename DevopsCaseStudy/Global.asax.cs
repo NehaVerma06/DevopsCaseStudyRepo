@@ -18,5 +18,6 @@ namespace DevopsCaseStudy
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
 
+
     }
 }
